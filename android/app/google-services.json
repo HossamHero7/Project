@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079265615133",
+    "project_id": "reinetech-shopping-85493",
+    "storage_bucket": "reinetech-shopping-85493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079265615133:android:38cbbfb43ddf789e6115f4",
+        "android_client_info": {
+          "package_name": "com.example.reine_tech_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079265615133-286n3ru3lkfvkvk4jf9vtpgu5pm4usgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Z3iovoIy3-cyvC5O1hth1voN6q76qHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079265615133-286n3ru3lkfvkvk4jf9vtpgu5pm4usgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
